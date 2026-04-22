@@ -11,7 +11,7 @@ Here is an alternative video viewer that could be used for 3 videos.
 python -m http.server
 ```
 
-* Go to localhost:8000
+* Open your browser of choice (Google, Safari, Firefox, etc.) and search localhost:8000
 
 * Put your browser in full screen mode
 
